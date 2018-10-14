@@ -1,3 +1,4 @@
 this is first contant file
-adding this new line
-adding line from master branch
+<<<<<<< HEAD
+=======
+>>>>>>> 3bac503b12c910ccb351a90a8735c10717257ec2

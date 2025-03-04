@@ -1,0 +1,14 @@
+name: first-workflow
+
+on: [push]
+
+jobs:
+  run-shell-command:
+    runs-on: ubuntu-latest
+    steps:
+      - name: run echo command
+        run: echo "Jai shree Ram, NARAYANA"
+      - name: multi line command
+        run: |
+          node -v
+          npm -v

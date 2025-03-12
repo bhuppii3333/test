@@ -1,0 +1,10 @@
+PROD Change:
+  - changed-files:
+    - any-glob-to-any-file:
+      - content/**
+      - build/com-stage/**
+      - build-bloxinabox/com-stage/**
+      - build/ddiaas-stage/**
+      - build-bloxinabox/ddiaas-stage/**
+      - build/gcp-ddiaas-stage/**
+      - build-bloxinabox/gcp-ddiaas-stage/**
